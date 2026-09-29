@@ -1,2 +1,4 @@
-Hello I am abdulRahman
-from CSE1 MGIT
+c1  c2
+abdul  20
+prasad  18
+ashraf  20
